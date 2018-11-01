@@ -1,11 +1,11 @@
 # Site settings
-title: Handsome Dan
-description: "A website about the dog, Handsome Dan."
+title: Caitlin Meyer
+description: "My MicroMasters Portfolio"
 url: ""
 
 author:
-  name: "Handsome Dan"
-  email: "handsome.dan@yale.edu"
+  name: "Caitlin Meyer"
+  email: "caitlin.meyer@yale.edu"
   url: ""
 
 # Build settings
